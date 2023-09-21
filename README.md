@@ -1,4 +1,4 @@
-# Towards-an-Outlier-Quantification-Framework-for-multibeam-Echo-sounder-data
+# An optimized outlier detection function for multibeam echo-sounder data
 
 This repository contains two main directories: "code" and "running example."
 
